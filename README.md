@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kwekuobeng43 / emmanuelobeng
 - 👀 I’m interested in ...software development and web development 
 - 🌱 I’m currently intern at Adansi Travels
-- Now using React JS for projects
+- 💪🏾 Now using React JS for projects
 - 💞️ I’m looking to collaborate on a software developer to enhance my skills.
 - 📫 How to reach me ...+233597712361/ LinkedIn @emmanuelobeng
 - 😄 Pronouns: ...
